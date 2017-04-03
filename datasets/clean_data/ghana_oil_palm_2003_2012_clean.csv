@@ -1,111 +1,71 @@
 Company,Year,Production(mt)
-Ameen Sangari Industries Limited,2003,7367
-Ameen Sangari Industries Limited,2004,8104
-Ameen Sangari Industries Limited,2005,8914
-Ameen Sangari Industries Limited,2006,9805
-Ameen Sangari Industries Limited,2007,10785.5
-Ameen Sangari Industries Limited,2008,11863.68
-Ameen Sangari Industries Limited,2009,11e3
-Ameen Sangari Industries Limited,2010,12589.86
-Ameen Sangari Industries Limited,2011,13314.5
-Ameen Sangari Industries Limited,2012,14039.14
-Benso Oil Palm Production Limited,2003,17260
-Benso Oil Palm Production Limited,2004,14323
-Benso Oil Palm Production Limited,2005,16012
-Benso Oil Palm Production Limited,2006,16485
-Benso Oil Palm Production Limited,2007,15305
-Benso Oil Palm Production Limited,2008,14960.18
-Benso Oil Palm Production Limited,2009,14124
-Benso Oil Palm Production Limited,2010,14232.57
-Benso Oil Palm Production Limited,2011,13916.82
-Benso Oil Palm Production Limited,2012,13601.07
-Ghana Oil Palm Development Company,2003,19956.8
-Ghana Oil Palm Development Company,2004,26530.2
-Ghana Oil Palm Development Company,2005,27065.2
-Ghana Oil Palm Development Company,2006,28743.1
-Ghana Oil Palm Development Company,2007,17842.7
-Ghana Oil Palm Development Company,2008,18055.68
-Ghana Oil Palm Development Company,2009,20143
-Ghana Oil Palm Development Company,2010,18960.54
-Ghana Oil Palm Development Company,2011,18045.8
-Ghana Oil Palm Development Company,2012,17131.05
-"Medium
-Scale Mills",2003,6301
-"Medium
-Scale Mills",2004,6932
-"Medium
-Scale Mills",2005,7625
-"Medium
-Scale Mills",2006,8387
-"Medium
-Scale Mills",2007,9225.7
-"Medium
-Scale Mills",2008,10148.07
-"Medium
-Scale Mills",2009,10836
-"Medium
-Scale Mills",2010,11584.66
-"Medium
-Scale Mills",2011,12357.44
-"Medium
-Scale Mills",2012,13130.22
-National Oil Palm Limited,2003,5274
-National Oil Palm Limited,2004,5801
-National Oil Palm Limited,2005,6381
-National Oil Palm Limited,2006,7019
-National Oil Palm Limited,2007,7721
-National Oil Palm Limited,2008,8492.83
-National Oil Palm Limited,2009,12775
-National Oil Palm Limited,2010,11812.93
-National Oil Palm Limited,2011,12856.74
-National Oil Palm Limited,2012,13900.55
-"Small-Scale
-and Other
-Private
-Holdings",2003,188503
-"Small-Scale
-and Other
-Private
-Holdings",2004,207353
-"Small-Scale
-and Other
-Private
-Holdings",2005,228089
-"Small-Scale
-and Other
-Private
-Holdings",2006,250888
-"Small-Scale
-and Other
-Private
-Holdings",2007,275976.8
-"Small-Scale
-and Other
-Private
-Holdings",2008,303572.32
-"Small-Scale
-and Other
-Private
-Holdings",2009,316222
-"Small-Scale
-and Other
-Private
-Holdings",2010,342012.51
-"Small-Scale
-and Other
-Private
-Holdings",2011,364279.77
-"Small-Scale
-and Other
-Private
-Holdings",2012,386547.04
-Twifo Oil Palm Plantation Limited,2003,19892.1
-Twifo Oil Palm Plantation Limited,2004,20588.2
-Twifo Oil Palm Plantation Limited,2005,20223.6
-Twifo Oil Palm Plantation Limited,2006,20348
-Twifo Oil Palm Plantation Limited,2007,14797.1
-Twifo Oil Palm Plantation Limited,2008,14249.66
-Twifo Oil Palm Plantation Limited,2009,17373
-Twifo Oil Palm Plantation Limited,2010,14544.4
-Twifo Oil Palm Plantation Limited,2011,13627.94
-Twifo Oil Palm Plantation Limited,2012,12711.48
+AMEEN,2003,7367
+AMEEN,2004,8104
+AMEEN,2005,8914
+AMEEN,2006,9805
+AMEEN,2007,10785.5
+AMEEN,2008,11863.68
+AMEEN,2009,11e3
+AMEEN,2010,12589.86
+AMEEN,2011,13314.5
+AMEEN,2012,14039.14
+BOPP,2003,17260
+BOPP,2004,14323
+BOPP,2005,16012
+BOPP,2006,16485
+BOPP,2007,15305
+BOPP,2008,14960.18
+BOPP,2009,14124
+BOPP,2010,14232.57
+BOPP,2011,13916.82
+BOPP,2012,13601.07
+GOPDC,2003,19956.8
+GOPDC,2004,26530.2
+GOPDC,2005,27065.2
+GOPDC,2006,28743.1
+GOPDC,2007,17842.7
+GOPDC,2008,18055.68
+GOPDC,2009,20143
+GOPDC,2010,18960.54
+GOPDC,2011,18045.8
+GOPDC,2012,17131.05
+Medium-Scale Mills,2003,6301
+Medium-Scale Mills,2004,6932
+Medium-Scale Mills,2005,7625
+Medium-Scale Mills,2006,8387
+Medium-Scale Mills,2007,9225.7
+Medium-Scale Mills,2008,10148.07
+Medium-Scale Mills,2009,10836
+Medium-Scale Mills,2010,11584.66
+Medium-Scale Mills,2011,12357.44
+Medium-Scale Mills,2012,13130.22
+NOPL,2003,5274
+NOPL,2004,5801
+NOPL,2005,6381
+NOPL,2006,7019
+NOPL,2007,7721
+NOPL,2008,8492.83
+NOPL,2009,12775
+NOPL,2010,11812.93
+NOPL,2011,12856.74
+NOPL,2012,13900.55
+Small-Scale and Private,2003,188503
+Small-Scale and Private,2004,207353
+Small-Scale and Private,2005,228089
+Small-Scale and Private,2006,250888
+Small-Scale and Private,2007,275976.8
+Small-Scale and Private,2008,303572.32
+Small-Scale and Private,2009,316222
+Small-Scale and Private,2010,342012.51
+Small-Scale and Private,2011,364279.77
+Small-Scale and Private,2012,386547.04
+TOPP,2003,19892.1
+TOPP,2004,20588.2
+TOPP,2005,20223.6
+TOPP,2006,20348
+TOPP,2007,14797.1
+TOPP,2008,14249.66
+TOPP,2009,17373
+TOPP,2010,14544.4
+TOPP,2011,13627.94
+TOPP,2012,12711.48
