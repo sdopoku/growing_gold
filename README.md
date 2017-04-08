@@ -1,5 +1,5 @@
 # Growing Gold
-A list datasets, resources and tools related to food production in Ghana. Let's begin...
+A list of datasets, resources and tools related to food production in Ghana. Let's begin...
 
 ## Datasets
 Below is summary table of the datasets available so far. The table includes the name of the dataset with the R code for cleaning it, the cleaned data and the original "dirty" data.
