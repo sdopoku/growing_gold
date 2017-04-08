@@ -7,7 +7,7 @@ library(dplyr)
 setwd(".")
 
 # Get Data
-dirty_fertilizer <- read_csv("../dirty_data/fertilizer_import_2002_2012.csv")
+dirty_fertilizer <- read_csv("../dirty_data/ghana_fertilizer_import_2002_2012_dirty.csv")
 
 
 # View data
