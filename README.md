@@ -11,7 +11,7 @@ The goal of this section is to produce clean datasets that match the ["tidy data
  + If you have multiple tables, they should include a column in the table that allows them to be linked
 
 
- [Hadley Wickham](http://hadley.nz/) provides a detailed definition and explanation of tidy data and its benefits in [this paper](/resources/tidy_data.pdf).  To capture a few of these:
+ [Hadley Wickham](http://hadley.nz/) provides a detailed definition and explanation of tidy data and its benefits in [this paper](http://vita.had.co.nz/papers/tidy-data.pdf).  To capture a few of these:
   1. a user can quickly upload a dataset into many standard tools including  Microsoft Excel, R, Pandas and Tableau for analysis and visualisation to name a few.
   + a user can easily combine multiple datasets for a more in-depth analysis.
   + a user can easily share her data with other collaborators as [explained by Jeff Leek here](https://github.com/jtleek/datasharing).
