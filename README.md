@@ -6,9 +6,9 @@ Below is summary table of the datasets available so far. The table includes the 
 
 The goal of this section is to produce clean datasets that match the ["tidy data" definition](https://en.wikipedia.org/wiki/Tidy_data) below:
  1. Each variable (or feature) you measure should be in one column
- + Each different observation of that variable should be in a different row
- + There should be one table for each “kind” of variable
- + If you have multiple tables, they should include a column in the table that allows them to be linked
+ 2. Each different observation of that variable should be in a different row
+ 3. There should be one table for each “kind” of variable
+ 4. If you have multiple tables, they should include a column in the table that allows them to be linked
 
 
  [Hadley Wickham](http://hadley.nz/) provides a detailed definition and explanation of tidy data and its benefits in [this paper](http://vita.had.co.nz/papers/tidy-data.pdf).  To capture a few of these:
