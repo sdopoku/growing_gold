@@ -11,14 +11,26 @@ The goal of this section is to produce clean datasets that match the ["tidy data
  4. If you have multiple tables, they should include a column in the table that allows them to be linked
 
 
- [Hadley Wickham](http://hadley.nz/) provides a detailed definition and explanation of tidy data and its benefits in [this paper](http://vita.had.co.nz/papers/tidy-data.pdf).  To capture a few of these:
+[Hadley Wickham](http://hadley.nz/) provides a detailed definition and explanation of tidy data and its benefits in [this paper](http://vita.had.co.nz/papers/tidy-data.pdf).  To capture a few of these:
   + a user can quickly upload a dataset into many standard tools including  Microsoft Excel, R, Pandas and Tableau for analysis and visualisation to name a few.
   + a user can easily combine multiple datasets for a more in-depth analysis.
   + a user can easily share her data with other collaborators as [explained by Jeff Leek here](https://github.com/jtleek/datasharing).
 
 
-  #### How To Contribute
-  This project is a labour of love stemming from a love for data, food and Ghana. There are three main things I hope to achieve with this:
+
+#### How To Use This Resource
+Since not everyone can figure out what's going on inside my head if I don't explicitly show how these datasets can be used, I am attempting to write a short list of steps to follow in case you want to use this resource:
+1. **Name Column:** Identify a dataset that is of interest to you.
+2. **Cleaned Data:**  Check out the corresponding cleaned dataset to see if it is still of interest to you. Decide if it contains the variables/columns you're interested in using. You can always change your mind.
+3. **Details Page:** Visit the [details.md file](/datasets/clean_data/details.md) in the cleaned data folder to read additional notes about the dataset you are interested in.
+4. **Source Document:** If you still have questions about the dataset, check out the original source used using the source column in the summary table.
+5. **Dirty Data:** Take a look at the dirty data file and do a quick dance that you don't have to work with that format.
+6. **R Code:** If you're still bored, check out the R code used in tidying the dataset.
+
+
+
+#### How To Contribute
+This project is a labour of love stemming from a love for data, food and Ghana. There are three main things I hope to achieve with this:
   + Create an repository of open food-related datasets specific to Ghana.
   + Document and share the process for collecting, cleaning and releasing these datasets. I hope others can improve the process or simple join in the effort.
   + Identify gaps in specific datasets that would be worth covering.
