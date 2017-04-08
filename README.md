@@ -2,7 +2,7 @@
 A list of datasets, resources and tools related to food production in Ghana. Let's begin...
 
 ## Datasets
-Below is summary table of the datasets available so far. The table includes the name of the dataset with the R code for cleaning it, the cleaned data and the original "dirty" data.
+Below is the summary table of the datasets available so far. The table includes the name of the dataset with the R code for cleaning it, the cleaned data. the original "dirty" data and the source.
 
 The goal of this section is to produce clean datasets that match the ["tidy data" definition](https://en.wikipedia.org/wiki/Tidy_data) below:
  1. Each variable (or feature) you measure should be in one column
@@ -19,9 +19,9 @@ The goal of this section is to produce clean datasets that match the ["tidy data
 
   #### How To Contribute
   This project is a labour of love stemming from a love for data, food and Ghana. There are three main things I hope to achieve with this:
-  + Create an repository of open food-related datasets specific to Ghana
+  + Create an repository of open food-related datasets specific to Ghana.
   + Document and share the process for collecting, cleaning and releasing these datasets. I hope others can improve the process or simple join in the effort.
-  + Identify gaps in specific datasets that would be worth covering
+  + Identify gaps in specific datasets that would be worth covering.
   + Produce interesting stories, reports, music, dances, business plans, policies around food in Ghana. After all, we are talking about Ghana and food is a major part of our culture so why not learn more facts about it?
 
 
