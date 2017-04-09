@@ -1,0 +1,210 @@
+Commodity,Year,Value (USD Thousand),Category
+Banana,2002,3250,Horticultural
+Banana,2003,227,Horticultural
+Banana,2004,209,Horticultural
+Banana,2005,489,Horticultural
+Banana,2006,10330,Horticultural
+Banana,2007,NA,Horticultural
+Banana,2008,NA,Horticultural
+Banana,2009,NA,Horticultural
+Banana,2010,NA,Horticultural
+Banana,2011,15357,Horticultural
+Banana,2012,NA,Horticultural
+Cashew Nuts,2002,1450,Processed_And_Industrial
+Cashew Nuts,2003,2599,Processed_And_Industrial
+Cashew Nuts,2004,NA,Processed_And_Industrial
+Cashew Nuts,2005,5498,Processed_And_Industrial
+Cashew Nuts,2006,11975,Processed_And_Industrial
+Cashew Nuts,2007,NA,Processed_And_Industrial
+Cashew Nuts,2008,NA,Processed_And_Industrial
+Cashew Nuts,2009,NA,Processed_And_Industrial
+Cashew Nuts,2010,NA,Processed_And_Industrial
+Cashew Nuts,2011,149715,Processed_And_Industrial
+Cashew Nuts,2012,NA,Processed_And_Industrial
+Cocoa Products,2002,88769,Processed_And_Industrial
+Cocoa Products,2003,138622,Processed_And_Industrial
+Cocoa Products,2004,NA,Processed_And_Industrial
+Cocoa Products,2005,74029,Processed_And_Industrial
+Cocoa Products,2006,152945,Processed_And_Industrial
+Cocoa Products,2007,NA,Processed_And_Industrial
+Cocoa Products,2008,NA,Processed_And_Industrial
+Cocoa Products,2009,NA,Processed_And_Industrial
+Cocoa Products,2010,NA,Processed_And_Industrial
+Cocoa Products,2011,876278,Processed_And_Industrial
+Cocoa Products,2012,NA,Processed_And_Industrial
+Cotton Seed,2002,363,Horticultural
+Cotton Seed,2003,220,Horticultural
+Cotton Seed,2004,NA,Horticultural
+Cotton Seed,2005,1762,Horticultural
+Cotton Seed,2006,3187,Horticultural
+Cotton Seed,2007,NA,Horticultural
+Cotton Seed,2008,NA,Horticultural
+Cotton Seed,2009,NA,Horticultural
+Cotton Seed,2010,172,Horticultural
+Cotton Seed,2011,259,Horticultural
+Cotton Seed,2012,970,Horticultural
+Cuttle Fish/Octopus,2002,636,Fish_And_Seafoods
+Cuttle Fish/Octopus,2003,1378,Fish_And_Seafoods
+Cuttle Fish/Octopus,2004,NA,Fish_And_Seafoods
+Cuttle Fish/Octopus,2005,2918,Fish_And_Seafoods
+Cuttle Fish/Octopus,2006,4124,Fish_And_Seafoods
+Cuttle Fish/Octopus,2007,NA,Fish_And_Seafoods
+Cuttle Fish/Octopus,2008,NA,Fish_And_Seafoods
+Cuttle Fish/Octopus,2009,223,Fish_And_Seafoods
+Cuttle Fish/Octopus,2010,836,Fish_And_Seafoods
+Cuttle Fish/Octopus,2011,4487,Fish_And_Seafoods
+Cuttle Fish/Octopus,2012,NA,Fish_And_Seafoods
+Fish (NES),2002,6205,Fish_And_Seafoods
+Fish (NES),2003,10659,Fish_And_Seafoods
+Fish (NES),2004,NA,Fish_And_Seafoods
+Fish (NES),2005,26386,Fish_And_Seafoods
+Fish (NES),2006,29693,Fish_And_Seafoods
+Fish (NES),2007,NA,Fish_And_Seafoods
+Fish (NES),2008,NA,Fish_And_Seafoods
+Fish (NES),2009,NA,Fish_And_Seafoods
+Fish (NES),2010,NA,Fish_And_Seafoods
+Fish (NES),2011,17088,Fish_And_Seafoods
+Fish (NES),2012,NA,Fish_And_Seafoods
+Kola nut,2002,1122,Horticultural
+Kola nut,2003,948,Horticultural
+Kola nut,2004,1893,Horticultural
+Kola nut,2005,125,Horticultural
+Kola nut,2006,944,Horticultural
+Kola nut,2007,NA,Horticultural
+Kola nut,2008,975,Horticultural
+Kola nut,2009,NA,Horticultural
+Kola nut,2010,NA,Horticultural
+Kola nut,2011,259,Horticultural
+Kola nut,2012,393,Horticultural
+"Lobsters/Shrimps, etc",2002,1051,Fish_And_Seafoods
+"Lobsters/Shrimps, etc",2003,2612,Fish_And_Seafoods
+"Lobsters/Shrimps, etc",2004,NA,Fish_And_Seafoods
+"Lobsters/Shrimps, etc",2005,843,Fish_And_Seafoods
+"Lobsters/Shrimps, etc",2006,1780,Fish_And_Seafoods
+"Lobsters/Shrimps, etc",2007,NA,Fish_And_Seafoods
+"Lobsters/Shrimps, etc",2008,983,Fish_And_Seafoods
+"Lobsters/Shrimps, etc",2009,NA,Fish_And_Seafoods
+"Lobsters/Shrimps, etc",2010,341,Fish_And_Seafoods
+"Lobsters/Shrimps, etc",2011,289,Fish_And_Seafoods
+"Lobsters/Shrimps, etc",2012,92,Fish_And_Seafoods
+Mangoes,2002,70,Horticultural
+Mangoes,2003,108,Horticultural
+Mangoes,2004,164,Horticultural
+Mangoes,2005,135,Horticultural
+Mangoes,2006,83,Horticultural
+Mangoes,2007,998,Horticultural
+Mangoes,2008,522,Horticultural
+Mangoes,2009,235,Horticultural
+Mangoes,2010,230,Horticultural
+Mangoes,2011,2786,Horticultural
+Mangoes,2012,NA,Horticultural
+Orange (Fresh),2002,672,Horticultural
+Orange (Fresh),2003,329,Horticultural
+Orange (Fresh),2004,94,Horticultural
+Orange (Fresh),2005,3865,Horticultural
+Orange (Fresh),2006,462,Horticultural
+Orange (Fresh),2007,333,Horticultural
+Orange (Fresh),2008,NA,Horticultural
+Orange (Fresh),2009,875,Horticultural
+Orange (Fresh),2010,654,Horticultural
+Orange (Fresh),2011,226,Horticultural
+Orange (Fresh),2012,483,Horticultural
+Pawpaw,2002,864,Horticultural
+Pawpaw,2003,737,Horticultural
+Pawpaw,2004,NA,Horticultural
+Pawpaw,2005,1081,Horticultural
+Pawpaw,2006,937,Horticultural
+Pawpaw,2007,NA,Horticultural
+Pawpaw,2008,334,Horticultural
+Pawpaw,2009,546,Horticultural
+Pawpaw,2010,971,Horticultural
+Pawpaw,2011,448,Horticultural
+Pawpaw,2012,136,Horticultural
+Pineapple,2002,15520,Horticultural
+Pineapple,2003,14378,Horticultural
+Pineapple,2004,NA,Horticultural
+Pineapple,2005,13430,Horticultural
+Pineapple,2006,19086,Horticultural
+Pineapple,2007,NA,Horticultural
+Pineapple,2008,NA,Horticultural
+Pineapple,2009,NA,Horticultural
+Pineapple,2010,NA,Horticultural
+Pineapple,2011,16973,Horticultural
+Pineapple,2012,NA,Horticultural
+Processed Tuna,2002,71048,Fish_And_Seafoods
+Processed Tuna,2003,64051,Fish_And_Seafoods
+Processed Tuna,2004,NA,Fish_And_Seafoods
+Processed Tuna,2005,54850,Fish_And_Seafoods
+Processed Tuna,2006,55520,Fish_And_Seafoods
+Processed Tuna,2007,NA,Fish_And_Seafoods
+Processed Tuna,2008,NA,Fish_And_Seafoods
+Processed Tuna,2009,NA,Fish_And_Seafoods
+Processed Tuna,2010,NA,Fish_And_Seafoods
+Processed Tuna,2011,220697,Fish_And_Seafoods
+Processed Tuna,2012,NA,Fish_And_Seafoods
+Raw/Lint Cotton,2002,6143,Processed_And_Industrial
+Raw/Lint Cotton,2003,46051,Processed_And_Industrial
+Raw/Lint Cotton,2004,NA,Processed_And_Industrial
+Raw/Lint Cotton,2005,4053,Processed_And_Industrial
+Raw/Lint Cotton,2006,4427,Processed_And_Industrial
+Raw/Lint Cotton,2007,NA,Processed_And_Industrial
+Raw/Lint Cotton,2008,NA,Processed_And_Industrial
+Raw/Lint Cotton,2009,NA,Processed_And_Industrial
+Raw/Lint Cotton,2010,228,Processed_And_Industrial
+Raw/Lint Cotton,2011,253,Processed_And_Industrial
+Raw/Lint Cotton,2012,508,Processed_And_Industrial
+Robusta Coffee,2002,643,Processed_And_Industrial
+Robusta Coffee,2003,365,Processed_And_Industrial
+Robusta Coffee,2004,481,Processed_And_Industrial
+Robusta Coffee,2005,256,Processed_And_Industrial
+Robusta Coffee,2006,133,Processed_And_Industrial
+Robusta Coffee,2007,NA,Processed_And_Industrial
+Robusta Coffee,2008,NA,Processed_And_Industrial
+Robusta Coffee,2009,NA,Processed_And_Industrial
+Robusta Coffee,2010,NA,Processed_And_Industrial
+Robusta Coffee,2011,8980,Processed_And_Industrial
+Robusta Coffee,2012,NA,Processed_And_Industrial
+Sheanuts,2002,6125,Processed_And_Industrial
+Sheanuts,2003,16746,Processed_And_Industrial
+Sheanuts,2004,NA,Processed_And_Industrial
+Sheanuts,2005,28969,Processed_And_Industrial
+Sheanuts,2006,27249,Processed_And_Industrial
+Sheanuts,2007,NA,Processed_And_Industrial
+Sheanuts,2008,NA,Processed_And_Industrial
+Sheanuts,2009,NA,Processed_And_Industrial
+Sheanuts,2010,NA,Processed_And_Industrial
+Sheanuts,2011,25087,Processed_And_Industrial
+Sheanuts,2012,NA,Processed_And_Industrial
+Tuna Fish,2002,12191,Fish_And_Seafoods
+Tuna Fish,2003,8901,Fish_And_Seafoods
+Tuna Fish,2004,NA,Fish_And_Seafoods
+Tuna Fish,2005,14978,Fish_And_Seafoods
+Tuna Fish,2006,32148,Fish_And_Seafoods
+Tuna Fish,2007,NA,Fish_And_Seafoods
+Tuna Fish,2008,NA,Fish_And_Seafoods
+Tuna Fish,2009,NA,Fish_And_Seafoods
+Tuna Fish,2010,NA,Fish_And_Seafoods
+Tuna Fish,2011,10269,Fish_And_Seafoods
+Tuna Fish,2012,NA,Fish_And_Seafoods
+Vegetables,2002,3333,Horticultural
+Vegetables,2003,2771,Horticultural
+Vegetables,2004,423,Horticultural
+Vegetables,2005,66,Horticultural
+Vegetables,2006,79,Horticultural
+Vegetables,2007,49,Horticultural
+Vegetables,2008,NA,Horticultural
+Vegetables,2009,NA,Horticultural
+Vegetables,2010,NA,Horticultural
+Vegetables,2011,3878,Horticultural
+Vegetables,2012,NA,Horticultural
+Yam,2002,2428,Horticultural
+Yam,2003,4442,Horticultural
+Yam,2004,NA,Horticultural
+Yam,2005,10951,Horticultural
+Yam,2006,14157,Horticultural
+Yam,2007,NA,Horticultural
+Yam,2008,NA,Horticultural
+Yam,2009,NA,Horticultural
+Yam,2010,NA,Horticultural
+Yam,2011,12730,Horticultural
+Yam,2012,NA,Horticultural
